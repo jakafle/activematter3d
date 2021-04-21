@@ -69,5 +69,4 @@ for i in range(Nt):
 	ax.set(xlim3d=(0, L), ylim3d=(0, L), zlim3d=(0,L))
 	plt.pause(0.001)
 
-plt.savefig("active3d.png")
 plt.show()
