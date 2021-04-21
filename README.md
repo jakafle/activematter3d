@@ -1,6 +1,6 @@
 # Active Matter Simulation
 
-Python code to simulate the active matter. This is a 3D simulation.
+3D simulation of active matter using Python.
 
 ### Screenshots
 
